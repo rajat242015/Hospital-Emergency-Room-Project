@@ -17,6 +17,11 @@ This dashboard addresses the core operational and quality-of-care challenges wit
 •	Which age groups and genders are being seen, and what referral patterns (to other departments) are emerging?
 •	What proportion of patients are admitted versus not admitted, and what does that indicate about throughput, capacity and referral decisions?
 
+## Dashboard Image:
+![Hospital Emergency Room Final Dashboard](https://github.com/user-attachments/assets/d7dac311-be68-4a16-bcf9-95ec1370fd7a)
+
+
+
 ## Key Metrics & Visualisations
 Here are the primary metrics tracked, how I visualised them, and why they matter:
 1.	Number of Patients (Daily Count & Trend)
