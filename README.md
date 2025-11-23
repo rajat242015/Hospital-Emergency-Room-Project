@@ -70,3 +70,5 @@ Going forward, the roadmap includes:
 •	Deploying the dashboard for live/near-real-time use, enabling staff to monitor as events unfold.
 •	Engaging stakeholders (ER directors, triage nurses, department heads) to refine visuals, define action-workflow links, and embed the dashboard into regular review meetings.
 
+Dashboard link
+<a href="https://github.com/rajat242015/Hospital-Emergency-Room-Project/blob/main/Hospital%20Emergency%20Room%20Final%20Dashboard.JPG">Dashboard</a>
