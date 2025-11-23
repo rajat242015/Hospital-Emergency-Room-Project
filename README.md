@@ -11,11 +11,11 @@ I’m thrilled to share a dashboard project I developed from scratch using raw o
 
 ## Dashboard Purpose & Scope
 This dashboard addresses the core operational and quality-of-care challenges within an ER environment:
-•	How many patients are arriving each day, and how does that change over time?
-•	How long are patients waiting before being seen — and which days or conditions cause delays?
-•	How satisfied are patients with their ER experience, and do trends in satisfaction correlate with operational pressures?
-•	Which age groups and genders are being seen, and what referral patterns (to other departments) are emerging?
-•	What proportion of patients are admitted versus not admitted, and what does that indicate about throughput, capacity and referral decisions?
+- How many patients are arriving each day, and how does that change over time?
+-	How long are patients waiting before being seen — and which days or conditions cause delays?
+-	How satisfied are patients with their ER experience, and do trends in satisfaction correlate with operational pressures?
+-	Which age groups and genders are being seen, and what referral patterns (to other departments) are emerging?
+-	What proportion of patients are admitted versus not admitted, and what does that indicate about throughput, capacity and referral decisions?
 
 ## Dashboard Image:
 ![Hospital Emergency Room Final Dashboard](https://github.com/user-attachments/assets/d7dac311-be68-4a16-bcf9-95ec1370fd7a)
