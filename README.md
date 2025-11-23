@@ -34,27 +34,27 @@ Here are the primary metrics tracked, how I visualised them, and why they matter
 -	Visualisation: A daily sparkline/area trend, with high-wait days highlighted for further investigation.
 -	Why it matters: Wait time is a key operational indicator — prolonged waits can degrade patient experience, increase risk and signal bottlenecks in triage or staffing. According to industry guidance, wait time is among the most critical process-time indicators in an ER setting. 
 
-4.	Patient Satisfaction Score
+3.	Patient Satisfaction Score
 -	Metric: The average daily satisfaction score reported by patients (via surveys/feedback).
 -	Visualisation: Daily trend line or sparkline to display how satisfaction evolves, and to link dips with high volume or long waits.
 -	Why it matters: Satisfaction is both a quality and a reputational metric. It helps link operational performance (volume, wait time) with patient experience and quality outcomes. When satisfaction drops, it often correlates with pressures elsewhere.
 
-6.	Patient Admission Status
+4.	Patient Admission Status
 -	Metric: The number and percentage of patients admitted versus not admitted (e.g., discharged or treated and sent home).
 -	Visualisation: A simple table or bar/pie chart showing admitted vs not admitted + grand total, plus % of each.
 -	Why it matters: Admission status gives insight into hospital throughput, bed demand, severity of presenting patients and resource utilisation.
 
-7.	Patient Age Distribution
+5.	Patient Age Distribution
 -	Metric: Count of patients by age group (0-9, 10-19, …, 70-79, etc).
 -	Visualisation: Bar chart by age group to show which segments dominate the volume.
 -	Why it matters: Age distribution helps identify which cohorts the ER serves most, enabling targeted staffing, equipment readiness and service planning.
 
-9.	Gender Analysis
+6.	Gender Analysis
 -	Metric: Number/percentage of patients by gender (Male, Female).
 -	Visualisation: Pie chart or doughnut showing male vs female share.
 -	Why it matters: Demographic context helps in understanding patient mix, potential equity/representation issues, or service tailoring by gender.
 
-10.	Department Referrals
+7.	Department Referrals
 -	Metric: Count of patients referred from the ER to various departments (General Practice, Orthopaedics, Cardiology, Neurology, Gastroenterology, etc).
 -	Visualisation: Horizontal bar chart ranked by the number of referrals to each department.
 -	Why it matters: Referral patterns can spotlight which downstream specialties are most utilized, where bottlenecks may exist, and where cross-department coordination can be improved.
@@ -75,6 +75,7 @@ Here are the primary metrics tracked, how I visualised them, and why they matter
 -	Dashboard layout: Designed for leadership, clinicians and operational staff — with a top-line summary (number of patients, average wait, satisfaction), and supporting visuals (age, gender, referrals) all on a single page.
 
 ## The Outcome & Next Steps
+
 I’m proud of this work because it turns previously raw, unstructured data into a dashboard framework that speaks directly to key operational, quality-and-experience questions in the ER.
 Going forward, the roadmap includes:
 -	Adding trend-over-time (monthly or quarterly) views to detect longer-term shifts or seasonality.
@@ -83,5 +84,5 @@ Going forward, the roadmap includes:
 -	Deploying the dashboard for live/near-real-time use, enabling staff to monitor as events unfold.
 -	Engaging stakeholders (ER directors, triage nurses, department heads) to refine visuals, define action-workflow links, and embed the dashboard into regular review meetings.
 
-Dashboard link
+# Dashboard link
 <a href="https://github.com/rajat242015/Hospital-Emergency-Room-Project/blob/main/Hospital%20Emergency%20Room%20Final%20Dashboard.JPG">Dashboard</a>
