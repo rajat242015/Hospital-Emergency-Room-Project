@@ -25,30 +25,36 @@ This dashboard addresses the core operational and quality-of-care challenges wit
 ## Key Metrics & Visualisations
 Here are the primary metrics tracked, how I visualised them, and why they matter:
 1.	Number of Patients (Daily Count & Trend)
-o	Metric: Total number of patients visiting the ER each day.
-o	Visualisation: Daily trend displayed via an area chart (or sparkline) so that peaks, troughs and seasonal patterns become obvious at a glance.
-o	Why it matters: Understanding daily volume helps detect busy days, seasonal surges or unusual drops — enabling staffing adjustment, resource allocation and process optimisation.
+-	Metric: Total number of patients visiting the ER each day.
+-	Visualisation: Daily trend displayed via an area chart so that peaks, troughs and seasonal patterns become obvious at a glance.
+-	Why it matters: Understanding daily volume helps detect busy days, seasonal surges or unusual drops — enabling staffing adjustment, resource allocation and process optimisation.
+
 2.	Average Wait Time
 o	Metric: The average time patients wait from arrival to seeing a medical professional.
 o	Visualisation: A daily sparkline/area trend, with high-wait days highlighted for further investigation.
-o	Why it matters: Wait time is a key operational indicator — prolonged waits can degrade patient experience, increase risk and signal bottlenecks in triage or staffing. According to industry guidance, wait time is among the most critical process-time indicators in an ER setting. BioMed Central+2InetSoft.com+2
-3.	Patient Satisfaction Score
+o	Why it matters: Wait time is a key operational indicator — prolonged waits can degrade patient experience, increase risk and signal bottlenecks in triage or staffing. According to industry guidance, wait time is among the most critical process-time indicators in an ER setting. 
+
+4.	Patient Satisfaction Score
 o	Metric: The average daily satisfaction score reported by patients (via surveys/feedback).
 o	Visualisation: Daily trend line or sparkline to display how satisfaction evolves, and to link dips with high volume or long waits.
-o	Why it matters: Satisfaction is both a quality and a reputational metric. It helps link operational performance (volume, wait time) with patient experience and quality outcomes. When satisfaction drops, it often correlates with pressures elsewhere. lumenore.com+1
-4.	Patient Admission Status
+o	Why it matters: Satisfaction is both a quality and a reputational metric. It helps link operational performance (volume, wait time) with patient experience and quality outcomes. When satisfaction drops, it often correlates with pressures elsewhere.
+
+6.	Patient Admission Status
 o	Metric: The number and percentage of patients admitted versus not admitted (e.g., discharged or treated and sent home).
 o	Visualisation: A simple table or bar/pie chart showing admitted vs not admitted + grand total, plus % of each.
 o	Why it matters: Admission status gives insight into hospital throughput, bed demand, severity of presenting patients and resource utilisation.
-5.	Patient Age Distribution
+
+7.	Patient Age Distribution
 o	Metric: Count of patients by age group (0-9, 10-19, …, 70-79, etc).
 o	Visualisation: Bar chart by age group to show which segments dominate the volume.
 o	Why it matters: Age distribution helps identify which cohorts the ER serves most, enabling targeted staffing, equipment readiness and service planning.
-6.	Gender Analysis
+
+9.	Gender Analysis
 o	Metric: Number/percentage of patients by gender (Male, Female).
 o	Visualisation: Pie chart or doughnut showing male vs female share.
 o	Why it matters: Demographic context helps in understanding patient mix, potential equity/representation issues, or service tailoring by gender.
-7.	Department Referrals
+
+10.	Department Referrals
 o	Metric: Count of patients referred from the ER to various departments (General Practice, Orthopaedics, Cardiology, Neurology, Gastroenterology, etc).
 o	Visualisation: Horizontal bar chart ranked by the number of referrals to each department.
 o	Why it matters: Referral patterns can spotlight which downstream specialties are most utilized, where bottlenecks may exist, and where cross-department coordination can be improved.
