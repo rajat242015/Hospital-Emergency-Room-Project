@@ -6,7 +6,7 @@ I have created a Hospital Emergency Room Analysis Dashboard in Excel to improve 
 I’m thrilled to share a dashboard project I developed from scratch using raw operational and patient data from a hospital Emergency Room (ER). The goal was to move beyond static reports and craft a dynamic, intuitive visual tool that clearly answers pressing questions around patient volumes, wait times, satisfaction and referral patterns — enabling the ER leadership and clinical team to make data-driven decisions.
 
 ## Dataset source: 
-<a href=" https://www.kaggle.com/datasets/xavierberge/hospital-emergency-dataset">Dataset</a> 
+<a href="https://www.kaggle.com/datasets/xavierberge/hospital-emergency-dataset">Dataset</a> 
 
 
 ## Dashboard Purpose & Scope
